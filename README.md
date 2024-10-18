@@ -10,7 +10,7 @@ Please take a look at [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/
 
 | OS | Arch |
 |----|------|
-|![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linux.svg)    | amd64, aarch64 |
+|<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linux.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/windows.svg"> <img alt="Linux" src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/linux.svg"></picture>| amd64, aarch64 |
 |![Windows](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/windows.svg)| amd64, aarch64 |
 |![MacOS](https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/macos.svg)    | amd64, aarch64 |
 
